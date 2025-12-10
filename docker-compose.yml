@@ -63,7 +63,6 @@ volumes:
   certbot-conf:
     external: true
 
-
 networks:
   sgu-net:
     external: true
